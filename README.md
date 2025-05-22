@@ -1,4 +1,4 @@
-# Git_El-Zero
-Learing with Osama El Zero (Git)
+# Git_Course
+Learing git
 
 ## Project Notes
